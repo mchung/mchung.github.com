@@ -16,6 +16,10 @@ body {
 	margin: 0 auto;
 }
 
+.details {
+  padding-bottom: 14px;
+}
+
 .blue,
 .fc-agenda .blue .fc-event-time,
 .blue a { background-color: #3366CC; border-color: #3366CC; color: white; }
