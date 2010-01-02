@@ -1,0 +1,45 @@
+body {
+	margin-top: 40px;
+	text-align: center;
+	font-size: 14px;
+	font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+}
+	
+#loading {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+
+#calendar {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.blue,
+.fc-agenda .blue .fc-event-time,
+.blue a { background-color: #3366CC; border-color: #3366CC; color: white; }
+
+.purple,
+.fc-agenda .purple .fc-event-time,
+.purple a { background-color: #994499; border-color: #994499; color: white; }
+
+.orange,
+.fc-agenda .orange .fc-event-time,
+.orange a { background-color: #EE8800; border-color: #EE8800; color: white; }
+
+.yellow,
+.fc-agenda .yellow .fc-event-time,
+.yellow a { background-color: yellow; border-color: yellow; color: black; }
+
+.red,
+.fc-agenda .red .fc-event-time,
+.red a { background-color: #CC3333; border-color: #CC3333; color: white; }
+
+.pink,
+.fc-agenda .pink .fc-event-time,
+.pink a { background-color: #DD4477; border-color: #DD4477; color: white; }
+
+.green,
+.fc-agenda .green .fc-event-time,
+.green a { background-color: #66AA00; border-color: #66AA00; color: white; }
