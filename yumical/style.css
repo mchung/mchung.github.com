@@ -3,6 +3,8 @@ body {
 	text-align: center;
 	font-size: 14px;
 	font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+	background-color: #000;
+	color: #fff;
 }
 	
 #loading {
@@ -20,30 +22,26 @@ body {
   padding-bottom: 14px;
 }
 
-.blue,
-.fc-agenda .blue .fc-event-time,
-.blue a { background-color: #3366CC; border-color: #3366CC; color: white; }
+.almoro_style,
+.fc-agenda .almoro_style .fc-event-time,
+.almoro_style a { background-color: #294E6B; border-color: #294E6B; color: white; }
 
-.purple,
-.fc-agenda .purple .fc-event-time,
-.purple a { background-color: #994499; border-color: #994499; color: white; }
+.default_style,
+.fc-agenda .default_style .fc-event-time,
+.default_style a { background-color: #AE0000; border-color: #AE0000; color: white; }
 
-.orange,
-.fc-agenda .orange .fc-event-time,
-.orange a { background-color: #EE8800; border-color: #EE8800; color: white; }
+.y_style,
+.fc-agenda .y_style .fc-event-time,
+.y_style a { background-color: #AE0000; border-color: #AE0000; color: white; }
 
-.yellow,
-.fc-agenda .yellow .fc-event-time,
-.yellow a { background-color: yellow; border-color: yellow; color: black; }
+.azscb_style,
+.fc-agenda .azscb .fc-event-time,
+.azscb_style a { background-color: #8c602d; border-color: #8c602d; color: white; }
 
-.red,
-.fc-agenda .red .fc-event-time,
-.red a { background-color: #CC3333; border-color: #CC3333; color: white; }
+.yenli_style,
+.fc-agenda .yenli_style .fc-event-time,
+.yenli_style a { background-color: #00A6AD; border-color: #00A6AD; color: white; }
 
-.pink,
-.fc-agenda .pink .fc-event-time,
-.pink a { background-color: #DD4477; border-color: #DD4477; color: white; }
-
-.green,
-.fc-agenda .green .fc-event-time,
-.green a { background-color: #66AA00; border-color: #66AA00; color: white; }
+.ystudio_style,
+.fc-agenda .ystudio_style .fc-event-time,
+.ystudio_style a { background-color: #AE0000; border-color: #AE0000; color: white; }

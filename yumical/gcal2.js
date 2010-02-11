@@ -12,14 +12,14 @@
 
 (function($) {
 
-  var default_color =                        "purple";
+  var default_color =                        "default_style";
   var locations = [
-    [/^Yumi's Studio/,                       "green"],
-    [/^Yumi's/,                              "orange"],
-    [/^al Moro/,                             "blue"],
-    [/^Arizona School of Classical Ballet/,  "red"],
-    [/^AZSCB/,                               "red"],
-    [/^Yen-Li Chen/,                         "pink"],
+    [/^Yumi's Studio/,                       "ystudio_style"],
+    [/^Yumi's/,                              "y_style"],
+    [/^al Moro/,                             "almoro_style"],
+    [/^Arizona School of Classical Ballet/,  "azscb_style"],
+    [/^AZSCB/,                               "azscb_style"],
+    [/^Yen-Li Chen/,                         "yenli_style"],
   ];
 
   function set_location_from_style(event_loc) {
